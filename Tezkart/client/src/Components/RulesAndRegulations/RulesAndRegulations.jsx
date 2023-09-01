@@ -125,7 +125,7 @@ const RulesPage = () => {
           </p>
         </li>
       </ul>
-      <div className="video-container">
+      {/* <div className="video-container">
         <ReactPlayer
           url="https://youtu.be/wbQdj5HC1Gs"
           width="920px"   // Adjust the width as needed
@@ -133,7 +133,7 @@ const RulesPage = () => {
           playing={false}
           loop
         />
-      </div>
+      </div> */}
       <div style={{height:"4rem"}}>
 
       </div>

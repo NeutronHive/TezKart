@@ -15,7 +15,7 @@ const About = () => {
                     />
                 </div>
                 <div className="about-us-info" >
-                    <h2 style={{color:"whitesmoke", fontFamily:'Inconsolata, monospace'}}>We are System Slayers</h2>
+                    <h2 style={{color:"whitesmoke", fontFamily:'Inconsolata, monospace'}}>We are Neutron Hive</h2>
                     <p style={{color:'whitesmoke'}}>
  We are a dynamic team of dedicated individuals and our mission is to bring innovative ideas to life through technology. We're committed to embracing challenges, collaborating effectively, and delivering solutions that make a meaningful impact. With a focus on continuous learning and growth, we aim to carve a path towards excellence in the field of computer science and beyond.
                     </p>
@@ -35,7 +35,7 @@ const About = () => {
                     />
                 </div>
                 <div className="history-info">
-                    <h2 style={{fontFamily:'Inconsolata, monospace',color:"#222"}} >TezAsia Hackathon Project</h2>
+                    <h2 style={{fontFamily:'Inconsolata, monospace',color:"#222"}} >Decentral X project</h2>
                     <p style={{color:"#222"}}>
                     Our blockchain-based platform enhances E-commerce loyalty programs through transparent rewards, utilizing fungible tokens for engagement. Brands and partners can seamlessly manage tokens, while users track their rewards. The user-friendly blue-gold portal simplifies token issuance and offers a verifiable, scalable solution.
                     </p>
